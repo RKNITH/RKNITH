@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rknith&label=Profile%20views&color=0e75b6&style=flat" alt="rknith" /> </p>
 
-- 🌱 I’m currently learning **Dimensionality Reduction (e.g., Principal Component Analysis (PCA), t-SNE), Natural Language Processing**
+- 🌱 I’m currently learning **Data processing and analysis tools(Pandas, Numpy, Matplotlib)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RKNITH](https://github.com/RKNITH)
 
