@@ -30,3 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rknith&show_icons=true&locale=en&layout=compact" alt="rknith" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rknith&show_icons=true&locale=en" alt="rknith" /></p>
+<div class="d-block">
+  <a href="https://github.com/rknith/github-readme-stats" title="Wakatime"><img src="https://raw.githubusercontent.com/fabianocouto/fabianocouto/main/assets/wakatime.svg" alt="fabianocouto" width=49.5% align=left /></a>
+  
+</div>
