@@ -1,18 +1,19 @@
 
 ## <div align="center">🚀 Hi there! I'm Raviranjan Kumar 👋🏻 </div>
 
-An Enthusiastic technology lover from India
+An Enthusiastic technology lover from India.
+Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people.
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=RKNITH&theme=algolia&column=7&row=1&no-bg=true&no-frame=true"></div>
 
 
-👩‍💻 I'm currently working on **JavaScript Frameworks**
+👩‍💻 I'm currently working on **Generative Adversarial Networks (GANs) and their applications**
 
-🧠 I'm currently learning **Full Stack Web Development**
+🧠 I'm currently learning **Convolutional Neural Networks (CNNs) for image processing**
+🌱 Developing Skills In Cybersecurity Fundamentals: Studying basics of network security, web application vulnerabilities, 
+   and ethical hacking practices.
 
 👯‍♀️ I'm looking to collaborate on **Web Development and Cyber Security**
-
-🤔 I'm looking for help with **Cyber Security**
 
 📫 How to reach me 
 
