@@ -37,7 +37,5 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 </div>
 <div align="center" style="width:100%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RKNITH&theme=react" style="width:50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RKNITH&theme=react" style="width:50%"></div>
 </div>
-<div align="center" style="width:100%"><img src="https://github-readme-stats.vercel.app/api?username=RKNITH&show_icons=true&theme=radical" style="width:50%">
-</div>
 
 
