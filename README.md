@@ -21,10 +21,6 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <a href="mailto:rr8422617@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
 </p>
 
-## <div align="center">Visitor's count 👀</div>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{RKNITH}/count.svg"></p>
-
 
 ## <div align="center"> 🛠 Skills </div>
 
@@ -36,6 +32,10 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <div align="center" style="width:100%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RKNITH&theme=react" style="width:50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mda1458&theme=react" style="width:50%"></div>
 </div>
 <div align="center" style="width:100%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RKNITH&theme=react" style="width:50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RKNITH&theme=react" style="width:50%"></div>
-</div>
+</div>  
+<h2 align="left">👨‍💻 My LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rkmunna?theme=dark&font=Fira%20Code" alt="LeetCode Stats">
+</p>
 
 
