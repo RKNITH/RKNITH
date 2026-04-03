@@ -76,12 +76,16 @@ I care about clean code, real-world impact, and continuously levelling up across
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [AI Resume Builder](https://github.com/RKNITH/AI-RESUME-BUILDER) | AI-powered resume generator with ATS-friendly templates and live preview | TypeScript, Next.js, OpenAI | [Demo →](https://github.com/RKNITH/AI-RESUME-BUILDER) |
-| [Google Meet Clone](https://github.com/RKNITH/GOOGLE-MEET-CLONE) | Real-time video conferencing app with room creation and peer-to-peer streams | WebRTC, Node.js, Socket.io | [Demo →](https://github.com/RKNITH/GOOGLE-MEET-CLONE) |
-| [Facebook Clone](https://github.com/RKNITH/FACEBOOK-CLONE) | Full social media UI with feeds, auth, and responsive layout | Next.js, Tailwind CSS | [Demo →](https://github.com/RKNITH/FACEBOOK-CLONE) |
-| [Snapchat Clone](https://github.com/RKNITH/SNAPCHAT-CLONE) | Snap-style stories and messaging interface | TypeScript, Next.js, Tailwind | [Demo →](https://github.com/RKNITH/SNAPCHAT-CLONE) |
-| [Hostel Management System](https://github.com/RKNITH/HOSTEL-MANAGEMENT-SYSTEM) | Complete hostel admin dashboard with room, student, and fee management | JavaScript, MongoDB, Express | [Demo →](https://github.com/RKNITH/HOSTEL-MANAGEMENT-SYSTEM) |
-| [Rank Tracker](https://github.com/RKNITH/RANK-TRACKER) | Keyword ranking tracker with analytics and reporting features | TypeScript, React | [Demo →](https://github.com/RKNITH/RANK-TRACKER) |
+| **ChatWave** — WhatsApp Clone | Full-featured messaging app with real-time chat, audio/video calls, status updates, group chat & group calls | MERN, Socket.io, WebRTC | [Live →](https://chatwave-lemon.vercel.app/login) |
+| **Safar Setu** — Bus Booking Platform | Real-time bus booking with live map tracking, seat selection, and route management | MERN, Maps API | [Live →](https://safar-setu-liart.vercel.app/) |
+| **LearnWithRaviranjan** — LMS | Full learning management system with course creation, student dashboards, payments, and auth | MERN, Clerk, Stripe | [Live →](https://learn-with-raviranjan.vercel.app) |
+| **Pixel** — Image & PDF Editor | Browser-based image and PDF editor with AI-powered enhancement features | React, AI APIs | [Live →](https://pixel-ten-omega.vercel.app/) |
+| **TravelerAI** — Travel Planner | AI-guided travel recommendations with hotel booking and itinerary planning | MERN, AI APIs | [Live →](https://traveler-ai-iota.vercel.app/) |
+| **Pathshala** — School Management | End-to-end school management — students, staff, attendance, grades, timetables | MERN | [Live →](https://pathshala-pi.vercel.app/) |
+| **Portfolio Maker** | AI-powered portfolio generator — fill a form, get a deployed portfolio site | MERN, AI APIs | [Live →](https://portfolio-maker-lake.vercel.app/) |
+| **Rasoi** — Restaurant & Hotel Management | Full POS system with online/offline order handling, menu, tables, and billing | MERN | [Live →](https://rasoi-seven.vercel.app/) |
+| **Medical** — Hospital Management | Hospital operations platform — patients, doctors, appointments, and records | MERN | [Live →](https://medical-ten-mu.vercel.app/) |
+| **MessMate** — Mess Management | Hostel mess subscription and meal management system | MERN | [Live →](https://mess-mate-topaz.vercel.app/) |
 
 ---
 
