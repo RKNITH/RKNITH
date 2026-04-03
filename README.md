@@ -102,10 +102,26 @@ I care about clean code, real-world impact, and continuously levelling up across
 
 ---
 
-## LeetCode
+## Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rkmunna-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Rkmunna)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rkmunna-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rkmunna)
+[![HackerRank](https://img.shields.io/badge/HackerRank-h198038-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h198038)
+
+</div>
+
+### LeetCode
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Rkmunna?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+### GeeksforGeeks
+
+<div align="center">
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rkmunna" alt="GeeksforGeeks Stats" />
 </div>
 
 ---
